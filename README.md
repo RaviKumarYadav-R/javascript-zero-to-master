@@ -2,6 +2,18 @@
 
 A teacher-ready JavaScript curriculum from absolute beginner to advanced/mastery.
 
+## About the Learner
+
+| Detail | Information |
+|---|---|
+| Name | **Ravi** |
+| Age | **21** |
+| City | **Nawada** |
+| State | **Bihar, India** |
+| Goal | **Master JavaScript deeply and become confident enough to teach it** |
+
+This repository is being built as Ravi's structured JavaScript learning and teaching system — from absolute beginner concepts to advanced language internals, architecture, problem solving, and projects.
+
 ## Learning Philosophy
 
 `Learn → Understand → Visualize → Execute → Predict → Practice → Debug → Build → Teach → Master`
